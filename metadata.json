@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of CricLive Pro",
+  "description": "A comprehensive local cricket scoring app with real-time scoreboard, player stats, and AI-powered commentary.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
